@@ -5,4 +5,4 @@
 
 Languages and Tools
 
-Follow me
+![Fluter](https://img.shields.io/badge/-Sololearn-#000000??style=for-the-badge&logo=Sololearn)
