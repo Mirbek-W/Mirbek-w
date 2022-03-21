@@ -5,4 +5,4 @@
 
 Languages and Tools
 
-![Fluter](https://img.shields.io/badge/-Sololearn-#000000??style=for-the-badge&logo=Sololearn)
+![Python](https://img.shields.io/badge/-Python-090909??style=for-the-badge&logo=Python)
