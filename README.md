@@ -11,3 +11,8 @@ Languages and Tools
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=FFDD55)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=23AAF2)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=23A8F2)
+
+Folow me
+
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DD4F43)(https://www.instagram.com/mirbek_w/)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=23A8F2)(@WOLFRAM_0)
