@@ -14,5 +14,5 @@ Languages and Tools
 
 Folow me
 
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DD4F43)(https://www.instagram.com/mirbek_w/)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=23A8F2)(@WOLFRAM_0)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DD4F43)](https://www.instagram.com/mirbek_w/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=23A8F2)](@WOLFRAM_0)
