@@ -5,14 +5,9 @@
 
 Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-090909??style=for-the-badge&logo=Python)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=for-the-badge&logo=JavaScript&logoColor=FFDD55)
-
-![CSS](https://img.shields.io/badge/-Css-090909??style=for-the-badge&logo=Css&logoColor=FFDD55)
-
-![HTML](https://img.shields.io/badge/-Html-090909??style=for-the-badge&logo=Html&logoColor=FFDD55)
-
-![PHP](https://img.shields.io/badge/-PHP-090909??style=for-the-badge&logo=PHP&logoColor=23AAF2)
-
-![SQL](https://img.shields.io/badge/-SQL-090909??style=for-the-badge&logo=Sql&logoColor=FFDD55)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFDD55)
+![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css&logoColor=FFDD55)
+![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=FFDD55)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=23AAF2)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=23A8F2)
