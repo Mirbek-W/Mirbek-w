@@ -5,14 +5,12 @@
 Languages and Tools
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python)](/assets/Python.png)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFDD55)
-![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css&logoColor=FFDD55)
-![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=FFDD55)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=23AAF2)
-
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=23A8F2)
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFDD55)](/assets/JS.png)
+[![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css&logoColor=FFDD55)](/assets/JS.png)
+[{![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=FFDD55)](/assets/Html.png)
+[![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=23AAF2)](/assets/PHP.png)
+[![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=23A8F2)](/assets/SQL.png)
+[![С++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)](/assets/С++.png)
 Folow me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DD4F43)](https://www.instagram.com/mirbek_w/)
