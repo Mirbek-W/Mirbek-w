@@ -1,6 +1,6 @@
 [![Header](https://github.com/Mirbek-W/Mirbek-w/blob/main/assets/gifprof.gif)](https://www.sololearn.com/profile/12493044)
 
-## Python,JavaScript,HTML,CSS,PHP,SQL-learning! ✯✯✯And the most beloved Python✯✯✯
+## Programming is an art and I am an artist ✯✯✯✯✯✯
 
 Languages and Tools
 
