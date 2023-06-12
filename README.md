@@ -17,5 +17,5 @@ Folow me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DD4F43)](https://www.instagram.com/mirbek_w/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=23A8F2)](https://t.me/Mirbek_w)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCc6raHjNhP_prXed3tP-h9A?style=social)](https://www.youtube.com/channel/UCc6raHjNhP_prXed3tP-h9A)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCc6raHjNhP_prXed3tP-h9A?style=social)](https://www.youtube.com/channel/UCc6raHjNhP_prXed3tP-h9A) --
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirbek-W&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
