@@ -9,9 +9,9 @@ Languages and Tools
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css&logoColor=FFDD55)
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=Html&logoColor=FFDD55)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&logoColor=23AAF2)
-![LARAVEL](https://img.shields.io/badge/LARAVEL-LARAVEL-red)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=23A8F2)
 
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=23A8F2)
+![](https://img.shields.io/youtube/channel/subscribers/UCc6raHjNhP_prXed3tP-h9A?style=social)
 Folow me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=DD4F43)](https://www.instagram.com/mirbek_w/)
